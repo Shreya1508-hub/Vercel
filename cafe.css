@@ -1,0 +1,64 @@
+#head{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    width: 1510px;
+    gap: 300px;
+    background-color:#E1D2BD;
+    border: 5px solid rgb(224, 201, 147);
+    border-radius: 20px;
+    margin-bottom: 0px;
+
+}
+#logo{
+    display: flex;
+    width: fit-content;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: 50;
+
+}
+#sec2{
+    display: flex;
+    width: fit-content;
+    gap: 50px;
+}
+#sec3{
+    display:flex;
+    width: fit-content;
+    gap:8px;
+}
+#main{
+    width:1510px;
+    height:600px;
+    background-image: url(Mint\ Mocha.jpg);
+    background-size: cover;
+    border-radius: 20px;
+    margin-top:0px;
+
+}
+#text{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 70px;
+    font-weight: 200;
+    margin-left: 30px;
+    margin-top: 0px;
+    padding-top: 70px;
+}
+.txt{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    margin-left:30px;
+    margin-top:20px;
+
+}
+#btn{
+    width: 100px;
+    height: 50px;
+    border-radius: 30px;
+    margin-left: 30px;
+    background-color: #E8C899;
+    border: 3px  solid rgb(250, 185, 121) ;
+
+}
